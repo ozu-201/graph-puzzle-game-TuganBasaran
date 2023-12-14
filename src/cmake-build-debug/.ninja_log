@@ -1,0 +1,6 @@
+# ninja log v5
+13	857	7242596048377871	CMakeFiles/DartsGame.dir/Array/DartsGame/Element.cpp.obj	9fb98b20162a6909
+860	1750	7242596057366718	CMakeFiles/DartsGame.dir/Array/DartsGame/Test.cpp.obj	2f9a747a7f870868
+7	2085	7242596060809867	CMakeFiles/DartsGame.dir/Array/DartsGame/Queue.cpp.obj	20091cc62dccbbf7
+1	2112	7242596061079698	CMakeFiles/DartsGame.dir/Array/DartsGame/State.cpp.obj	2eff254dfaedba34
+2112	2512	7242596065043114	DartsGame.exe	d9e3f555cc94a894
