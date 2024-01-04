@@ -1,4 +1,4 @@
-/Users/tugan_basaran/CLionProjects/graph-puzzle-game-TuganBasaran 2/src/cmake-build-debug/CMakeFiles/Executable.dir
-/Users/tugan_basaran/CLionProjects/graph-puzzle-game-TuganBasaran 2/src/cmake-build-debug/CMakeFiles/AbstractGraph.cpp.dir
-/Users/tugan_basaran/CLionProjects/graph-puzzle-game-TuganBasaran 2/src/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/tugan_basaran/CLionProjects/graph-puzzle-game-TuganBasaran 2/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/TEMP.OZUN/CLionProjects/graph-puzzle-game-TuganBasaran/src/cmake-build-debug/CMakeFiles/Executable.dir
+C:/Users/TEMP.OZUN/CLionProjects/graph-puzzle-game-TuganBasaran/src/cmake-build-debug/CMakeFiles/AbstractGraph.cpp.dir
+C:/Users/TEMP.OZUN/CLionProjects/graph-puzzle-game-TuganBasaran/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/TEMP.OZUN/CLionProjects/graph-puzzle-game-TuganBasaran/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir

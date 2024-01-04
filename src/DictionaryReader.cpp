@@ -1,7 +1,3 @@
-//
-// Created by TuganBasaran on 28.12.2023.
-//
-
 #include "DictionaryReader.h"
 #include "DictionaryReader.h"
 #include <string>

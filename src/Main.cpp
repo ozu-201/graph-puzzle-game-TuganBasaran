@@ -1,10 +1,6 @@
-//
-// Created by TuganBasaran on 28.12.2023.
-//
-
-
 #include <iostream>
 #include "DictionaryReader.h"
+#include "Graph.h"
 
 int main() {
     std::string filename = "/Users/tugan_basaran/CLionProjects/graph-puzzle-game-TuganBasaran/english-dictionary.txt";

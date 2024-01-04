@@ -10,7 +10,7 @@
 #include "Edge.h"
 #include <string>
 #include <vector>
-
+#include <algorithm>
 
 
 namespace array {
@@ -65,6 +65,12 @@ namespace array {
     }
 
 
+    void Graph::addEdge(std::string from, std::string to) {
+        int index = getIndex(from);
+        int index2 = getIndex(to);
+        edges[index][index2] = 1;
+    }
+
     void Graph::addEdge(int from, int to) {
         edges[from][to] = 1;
     }
@@ -92,7 +98,7 @@ namespace array {
     }
 
     void Graph::depthFirstSearch(bool *visited, int fromNode) {
-        for (int toNomde = 0; toNode < vertexCount; toNode++){
+        for (int toNode = 0; toNode < vertexCount; toNode++){
             if (edges[fromNode][toNode] > 0){
                 if (!visited[toNode]){
                     visited[toNode] = true;

@@ -22,7 +22,7 @@ add_executable(Executable AbstractGraph.cpp Element.cpp DictionaryReader.cpp Gra
         Path.cpp
         Path.h
         Queue.cpp
-        Queue.h)
+        Queue.h Test_Case.cpp)
 
 add_library(AbstractGraph.cpp Element.cpp DictionaryReader.cpp Graph.cpp Heap.cpp Edge.cpp HeapNode.cpp MinHeap.cpp Path.cpp Queue.cpp
         DictionaryReader.cpp

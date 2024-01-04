@@ -20,6 +20,7 @@ namespace array{
         explicit Graph(int vertexCount);
         ~Graph();
         void addWord(const std::string& word);
+        void addEdge(std::string from, std::string to);
         void addEdge(int from, int to);
         int getIndex(const std::string &startWord);
         void addEdge(int from, int to, int weight);
